@@ -1,0 +1,16 @@
+
+#main stuff not needed to build project
+.vs
+
+#all photoshop assets
+Handmade/Assets/PSD
+
+#the outer Debug/Release folders
+Debug
+Release
+
+#the inner Debug/Release folders
+Handmade/Debug
+Handmade/Release
+
+Handmade/Data/Output.log
